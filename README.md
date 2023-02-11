@@ -14,7 +14,7 @@ Formerly a delivery driver, I'm now a trainee Full Stack Developer at Makers. I 
 **Myself** (05/12/2022 - 16/01/2023)  
 _Tech Student_
 
-Waiting for my course to begin, I started to warm up by refreshing the knowladge gained previously in tech. during this time I achieved:
+Waiting for my course to begin, I started to warm up by refreshing the knowledge gained previously in tech. during this time I achieved:
 
 - Knowledge of the basics of Javascript.
 - Improved understanding of Python, HTML and CSS.
@@ -34,26 +34,26 @@ Where I (in order):
 - Learned how to become organized in life and how to optimize time 
 
 But especially:
-- Got inspired to become a software developer and started to take my first lessons in HTML and CSS.
+- Got inspired to change my career into software development and started to take my first lessons in HTML and CSS.
 
 ## Skills
-- _Problem Solver_ :
+- _Problem Solver_:
   Any unsolvable problem is just the sum of smaller problems that individually can be solved or again scomposed.
 
-- _Creative Mind_ :
+- _Creative Mind_:
   "What if..." is a question I ask a lot. My curiosity for things sparks quickly and sometimes this leads me to take aspects from different things I learned or saw and combine them together.
 
-- _Positive Attitude_ :
+- _Positive Attitude_:
   The sky is the limit. A risk is a risk but sometimes you have to take risks to achieve better results. I prefer to think that there is a specific way to hit any target, it's just there for us to be found. That's why I never give up on my goals.
 
-- _Collaborative Spirit_ :
+- _Collaborative Spirit_:
   Positive attitudes make a good team! That's why it's important to support your co-workers and be open to learn from them too.
   When there is a team working for a common project, good communication between the parts is key to deliver efficiently and in time.
 
-- _Logic Communicator_ :
-  As per my pragmatic approach, I often explain concepts as a cause-effect mechanism. Doing this, I am able to describe what I know in an easier to understand way for people who need to receive updates on the status of a project.
+- _Logic Communicator_:
+  As per my pragmatic approach, I often explain concepts as a cause-effect mechanism. For example doing this, I am able to describe what I know in an easier to understand way for people who need to receive updates on the status of a project.
 
-- _A Sense Of Ethic_ :
+- _A Sense Of Ethic_:
   Nothing is more fullfilling that working in an environment and for a cause that reflects your true self. By becoming a Full Stack Developer I will be more able to be the change I want to see in the world and help other humans beings to do well in life.
 
 ## Education
