@@ -1,69 +1,83 @@
-## Your Name
+## Francesco Guglielmi
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Formerly a delivery driver, I'm now a trainee Full Stack Developer at Makers. I helped my previous employers finding solutions to their problems and discussed with them the strategies to achieve a better service. Now I look forward to achieve even more in the tech industry. I have a pragmatic approach to problems, I love to learn new things, change my perspective, change other's.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                           | Tech/tools         |
+| ---------------------------- | --------------------------------------| ------------------ |
+| **Final project**            |          work in progress             |  work in progress  |
+| **mastery-quizzes**          | program creation for training purposes|        Ruby        |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Myself** (05/12/2022 - 16/01/2023)  
+_Tech Student_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+Waiting for my course to begin, I started to warm up by refreshing the knowladge gained previously in tech. during this time I achieved:
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+- Knowledge of the basics of Javascript.
+- Improved understanding of Python, HTML and CSS.
 
-- Any experience relevent to software development
+**In My Previous Life...** (16/09/2017 - 05/12/2022)
+_Office Administrator_ for ScreamCouriers 
+_Delivery Driver_ for Scream Couriers
+_Customer Fulfillment Advisor_ for Argos
+_Delivery Driver_ for DPD
+_Parcel Office Operative_ for Ballymore
+
+Where I (in order):
+- Improved my English
+- Learned to drive in the UK
+- Improved social skills and learned basic body language interpretation
+- Improved my customer service skills 
+- Learned how to become organized in life and how to optimize time 
+
+But especially:
+- Got inspired to become a software developer and started to take my first lessons in HTML and CSS.
 
 ## Skills
+- _Problem Solver_ :
+  Any unsolvable problem is just the sum of smaller problems that individually can be solved or again scomposed.
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+- _Creative Mind_ :
+  "What if..." is a question I ask a lot. My curiosity for things sparks quickly and sometimes this leads me to take aspects from different things I learned or saw and combine them together.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+- _Positive Attitude_ :
+  The sky is the limit. A risk is a risk but sometimes you have to take risks to achieve better results. I prefer to think that there is a specific way to hit any target, it's just there for us to be found. That's why I never give up on my goals.
 
+- _Collaborative Spirit_ :
+  Positive attitudes make a good team! That's why it's important to support your co-workers and be open to learn from them too.
+  When there is a team working for a common project, good communication between the parts is key to deliver efficiently and in time.
 
-Here's an example
+- _Logic Communicator_ :
+  As per my pragmatic approach, I often explain concepts as a cause-effect mechanism. Doing this, I am able to describe what I know in an easier to understand way for people who need to receive updates on the status of a project.
 
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
+- _A Sense Of Ethic_ :
+  Nothing is more fullfilling that working in an environment and for a cause that reflects your true self. By becoming a Full Stack Developer I will be more able to be the change I want to see in the world and help other humans beings to do well in life.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (16/01/2023 - present)
 
-#### Your University / College (start_date to end_date)
+- solved quizzes using the command line, managing directories and files
+- learned to share and work on open source projects through GitHub
+- DRY refactoring
+- The importance of pairing to figure out more efficient solutions to problems
+- learned Ruby
+- RSpec, Git and Github
+- OOP, TDD
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Scientific Lyceum Chini-Michelangelo (09/2011 to 06/2016)
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- Italian Diploma (A levels), Forte Dei Marmi, Italy.
+From where I also got:
+- Cambridge University PET B1 level in English language.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Music passionate, guitar player and singer 
+- Philosophying
+- Fitness
+- Observing human psychology
+- Building things with wood 
