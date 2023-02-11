@@ -20,11 +20,11 @@ Waiting for my course to begin, I started to warm up by refreshing the knowledge
 - Improved understanding of Python, HTML and CSS.
 
 **In My Previous Life...** (16/09/2017 - 05/12/2022)
-_Office Administrator_ for ScreamCouriers 
-_Delivery Driver_ for Scream Couriers
-_Customer Fulfillment Advisor_ for Argos
-_Delivery Driver_ for DPD
-_Parcel Office Operative_ for Ballymore
+- Office Administrator for ScreamCouriers 
+- Delivery Driver for Scream Couriers
+- Customer Fulfillment Advisor for Argos
+- Delivery Driver for DPD
+- Parcel Office Operative for Ballymore
 
 Where I (in order):
 - Improved my English
