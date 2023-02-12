@@ -1,6 +1,6 @@
  # Francesco Guglielmi
 
-I am a trainee Full Stack Developer at Makers. I always go the extra mile finding solutions and explainations, such as adopting an effective algorithm to schedule my colleagues rota or proposing a rebranding concept with the strategies to achieve a better service. With my pragmatic approach to problems I look forward to achieve even more in the tech industry. I challenge myself by constantly leaning new things and continue to develop my skills as tecnologies and people progress. I believe this is the best way for anyone to become successful in their career. 
+I am a trainee Full Stack Developer at Makers. I often bring new ideas to the team and my employers, such as adopting an effective algorithm to schedule my colleagues rota or proposing a rebranding concept with the strategies to achieve a better service. With my pragmatic approach to problems I look forward to achieve even more in the tech industry. I challenge myself by constantly leaning new things and strive to continue to develop my skills, both human and technical.
 
 ## Projects
 
@@ -31,7 +31,8 @@ Waiting for my course to begin, I started to warm up by refreshing the knowledge
   - Improved social skills and learned basic body language interpretation
   - Improved my customer service skills 
   - Learned how to multitask on a timed schedule
-
+  - learned GDPR 2018 compliant data processing 
+  
 **But especially:**
   - Got inspired to change my career into software development and started to take my first lessons in HTML and CSS.
 
