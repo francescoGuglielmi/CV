@@ -40,6 +40,7 @@ I am a Full Stack Software Developer at Makers. I often bring new ideas to the t
   - Full Stack Ruby development: Postgres/SQL - Sinatra 
   - TDD with Rspec
   - The importance of pair programming for more efficient solutions to problems
+  - Agile workflow with platforms like Trello or Jira
   - Learned to share and work effectively on open source projects through GitHub
   - Writing DRY code
   - Separation of concerns
