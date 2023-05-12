@@ -8,7 +8,7 @@ I am a Full Stack Software Developer at Makers. I often bring new ideas to the t
 |------------------------------|--------------------------------------------|------------------------------|
 | **Career Companion**         | A new AI powered job-hunting assistant     | MERN stack                   |
 | **Acebook**                  | An experimental replica of Facebook        | MERN stack                   |
-| **MakersBnB**.               | An experimental replica of AirBnb          | Ruby, Sinatra, Postgres, SQL |
+| **MakersBnB**               | An experimental replica of AirBnb          | Ruby, Sinatra, Postgres, SQL |
 
 
 ## Skills
