@@ -1,6 +1,6 @@
  # Francesco Guglielmi
 
-I am a Full Stack Software Developer at Makers. I often bring new ideas to the team and to my employers, such as adopting a more interconnected coordination of the team through the communication of every actionable update on a common area of work or proposing a rebranding concept with the strategies to achieve a better service and user experience. With my pragmatic approach to problems I look forward to achieve more in the tech industry. I challenge myself by constantly leaning new things and strive to continue to develop my skills, both human and technical.
+I am a Full Stack Software Developer and part of Makers Alumni. I often bring new ideas to the team and to my employers, such as adopting a more interconnected coordination of the team through the communication of every actionable update on a common area of work or proposing a rebranding concept with the strategies to achieve a better service and user experience. With my pragmatic approach to problems I look forward to achieve more in the tech industry. I challenge myself by constantly leaning new things and strive to continue to develop my skills, both human and technical.
 
 ## Projects
 
