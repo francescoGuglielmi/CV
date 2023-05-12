@@ -6,7 +6,7 @@ I am a Full Stack Software Developer and part of Makers Alumni. I often bring ne
 
 | Name                         | Description                                | Tech/tools                   |
 |------------------------------|--------------------------------------------|------------------------------|
-| **Career Companion**         | A new AI powered job-hunting assistant     | MERN stack + AI              |
+| **Career Companion**         | A new AI powered job-hunting assistant     | MERN stack + OpenAI API      |
 | **Acebook**                  | An experimental replica of Facebook        | MERN stack                   |
 | **MakersBnB**                | An experimental replica of AirBnb          | Ruby, Sinatra, Postgres, SQL |
 
